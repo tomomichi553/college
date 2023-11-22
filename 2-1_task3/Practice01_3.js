@@ -10,6 +10,6 @@ function act(){
         case 2:
             window.confirm('小吉');
             break;
-
+//コメント
     }
 }
